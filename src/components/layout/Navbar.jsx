@@ -32,7 +32,7 @@ Navbar.defaultProps = {
   title: 'Github Finder',
 };
 
-Navbar.PropTypes = {
+Navbar.propTypes = {
   title: PropTypes.string,
 };
 
